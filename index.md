@@ -28,8 +28,8 @@ You can find a summary in the [research](/research "TUG ITP Plasma Research"){:s
 <!---[Here you can find our publications](/publications "TUG ITP Plasma Publications")--->
 A full list of our publications is currently available on [Zotero](https://www.zotero.org/itpplasma){:target="_blank"}
 
-[Test](/Viki's Trial and Error Ground/pubs/Pubs_290623.md){:style="color:White"}
-[Test](/Viki's Trial and Error Ground/pubs/pubsall_trial.md){:style="color:White"}
+<!---[Test](/Viki's Trial and Error Ground/pubs/Pubs_290623.md){:style="color:White"}
+[Test](/Viki's Trial and Error Ground/pubs/pubsall_trial.md){:style="color:White"}--->
 
 #### Team
 
