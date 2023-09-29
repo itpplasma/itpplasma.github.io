@@ -16,7 +16,8 @@ Our research is on kinetic plasma theory and numerical simulations to support th
 
 #### News
 
-[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:Blue"}
+[News from EUROfusion](https://euro-fusion.org/news/)
+[News from Fusion@ÖAW](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
 
 #### Research
 
