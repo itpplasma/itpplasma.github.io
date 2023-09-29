@@ -1,20 +1,29 @@
 ---
 layout: newdefault
 ---
-## Bachelor- and Master-Thesis  
+## Bachelor and Master Theses 
+  
+#### Topics
 
-  
-**Topics can include, but are not limited to:**
-  
-`Prof. Albert / Prof. Kernbichler:`
-* Nuclear Fusion and related topics 
-* Matlab versus Python in Physics and Teaching
-* Matlab - Object Oriented Programming
-* Selected methods and tools for data analysis in magnetic confinement fusion
-* Testing scientific software with Python
-* Simulations of mechanical systems and measurements with a high-speed camera (R. Buchholz)
-* Literature study of research for galactic position determination (R. Buchholz)  
+* Theoretical plasma physics for magnetic confinement fusion
+  * Plasma theory and modeling
+  * Simulation and validation on experimental data
+  * Collaboration with major international labs
+* Programming and data science
+  * Bayesian methods in data analysis
+  * Matlab and Python in research, teaching, and application (W. Kernbichler)
+  * Software engineering and testing of high-performance codes (P. Lainer)
+* Cross-disciplinary topics
+  * Theory, simulation, and measurements in classical mechanics, electrodynamics, and acoustics
+  * Design and construction of a tabletop stellarator (G. Harrer)
+  * Cooperation with engineering faculties and industry
     
-#### Current Theses
+#### Ongoing Theses
+Michael Hadwiger
+Lukas Drescher
+Maximilian Mandlez
+
 
 #### Completed Theses
+* Markus Baumgartner-Steinleitner (2023): 
+* Michael Reichelt (2023): 
