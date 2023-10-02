@@ -19,11 +19,20 @@ layout: newdefault
   * Cooperation with engineering faculties and industry
     
 #### Ongoing Theses
-Michael Hadwiger
-Lukas Drescher
-Maximilian Mandlez
+##### Bachelor
+* Alexandra Geishüttner: Confinement and performance scalings in small and large stellarators
+
+##### Master
+* Michael Hadwiger: Leveraging gradient information in Bayesian global optimization
+* Lukas Drescher: Finite element simulation and uncertainty quantification for magnetic field coils in fusion reactors
+* Maximilian Mandlez: Automatic detection of transitions between plasma states in perturbed tokamaks
+* Manuel Brandstätter: Numerical identification of complex roots from plasma dispersion equations
+* Daniele Corrias: Optimization of alpha particle losses in stellarators
+* Robert Babin (at Max-Planck-Institute for Plasma Physics): Reconstruction and uncertainty quantification for magnetohydrodynamic equilibria
+* Peter Zauner (at AEE INTEC): Heat transport in solar thermal plants
+* Martin Hasenburger (at Infineon Technologies): FEM simulations of fluid mechanics
 
 
 #### Completed Theses
-* Markus Baumgartner-Steinleitner (2023): 
-* Michael Reichelt (2023): 
+* Markus Baumgartner-Steinleitner (Master, 2023): Fusion-electric rocket drives
+* Michael Reichelt (Master, 2023): Advanced finite element methods for perturbed magnetohydrodynamic equilibria
