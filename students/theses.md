@@ -3,7 +3,7 @@ layout: newdefault
 ---
 ## Bachelor and Master Theses 
   
-#### Topics
+#### Areas
 
 * Theoretical plasma physics for magnetic confinement fusion
   * Plasma theory and modeling
@@ -17,6 +17,10 @@ layout: newdefault
   * Theory, simulation, and measurements in classical mechanics, electrodynamics, and acoustics
   * Design and construction of a tabletop stellarator (G. Harrer)
   * Cooperation with engineering faculties and industry
+
+#### Hot topics
+
+* Nested sampling in inverse problems of magnetic confinement fusion e.g. with https://johannesbuchner.github.io/UltraNest/index.html
     
 #### Ongoing Theses
 ##### Bachelor
