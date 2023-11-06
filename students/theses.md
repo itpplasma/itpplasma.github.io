@@ -20,6 +20,7 @@ layout: newdefault
 
 #### Hot topics
 
+* Autodifferentiation, application in stellarator optimization, and extensions towards branching codes
 * Nested sampling in inverse problems of magnetic confinement fusion e.g. with https://johannesbuchner.github.io/UltraNest/index.html
     
 #### Ongoing Theses
