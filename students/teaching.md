@@ -4,18 +4,19 @@ layout: newdefault
 
 ## Winter Term (23/24 academic year)  
   
->
-> [Programming in Physics: Advanced MATLAB](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336263) `P. Lainer`
 
-> [Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338120) `C. Albert`
+> [Software Engineering in Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/410565) `P. Lainer`
 
-> [Fusion Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=337418) `C. Albert`
+> [Plasma Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/404671) `C. Albert`
+
+> [Fusion Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/407698) `C. Albert`
 
 > [Theoretical Plasma Physics 1](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336409) `M. Heyn`	
 
-> [Research Laboratory Radiation and Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338069) `C. Albert, R. Buchholz`
+> [Research Laboratory Radiation and Plasma Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/405810) `C. Albert`
 
-> [Software Engineering in Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/410565?$ctx=design=ca;lang=de&$scrollTo=toc_overview) `P. Lainer`
+> [Applied Radiation Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/405038) `C. Albert, P. Beck, E. Pichl, W. Sprengl`
+
 
 
 ----
@@ -25,7 +26,7 @@ layout: newdefault
 > [Special Topics of Technical Physics: Fusion Reactor Design - joint course with TU Munich](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/423064?$scrollTo=toc_overview) `C. Albert, V. Keusch`
 
 > [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/403515?$scrollTo=toc_overview) `C. Albert, W. Kernbichler, P. Lainer, J. Mellak`
->
+
 > [Fortgeschrittenes Programmieren in der Physik](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) `M. Aichhorn, C. Albert, E. Arrigoni, D. J. Bonthuis, V. Eisler, H. Evertz, W. von der Linen`
 
 > [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/401146?$ctx=lang=de&$scrollTo=toc_overview) `C. Albert`
