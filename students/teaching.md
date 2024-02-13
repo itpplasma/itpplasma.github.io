@@ -2,7 +2,7 @@
 layout: newdefault
 ---
 
-## Winter Term (22/23 academic year)  
+## Winter Term (23/24 academic year)  
   
 >
 > [Programming in Physics: Advanced MATLAB](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336263) `P. Lainer`
@@ -20,12 +20,15 @@ layout: newdefault
 
 ----
 
-## Summer Term (22/23 academic year)  
+## Summer Term (23/24 academic year)  
 
->  
-> [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) `C. Albert, R. Buchholz, W. Kernbichler, P. Lainer], J. Mellak`
+> [Special Topics of Technical Physics: Fusion Reactor Design - joint course with TU Munich](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/423064?$scrollTo=toc_overview) `C. Albert, V. Keusch`
 
-> [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=334655) `C. Albert`
+> [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/403515?$scrollTo=toc_overview) `C. Albert, W. Kernbichler, P. Lainer, J. Mellak`
+>
+> [Fortgeschrittenes Programmieren in der Physik](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) `M. Aichhorn, C. Albert, E. Arrigoni, D. J. Bonthuis, V. Eisler, H. Evertz, W. von der Linen`
+
+> [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/401146?$ctx=lang=de&$scrollTo=toc_overview) `C. Albert`
 - [Writeup on Fokker-Planck collision operator and Monte Carlo method](/assets/teaching/fokker_planck.pdf)
 
 > [Theoretical Plasma Physics 2](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=333021&pSpracheNr=) `M. Heyn`
