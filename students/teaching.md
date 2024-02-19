@@ -17,7 +17,7 @@ layout: newdefault
 
 > [Applied Radiation Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/405038) `C. Albert, P. Beck, E. Pichl, W. Sprengl`
 
-<\br>
+<br>
 
 ----
 
