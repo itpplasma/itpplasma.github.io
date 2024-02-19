@@ -4,6 +4,7 @@ layout: newdefault
 
 ## Winter Term (23/24 academic year)  
   
+\
 
 > [Software Engineering in Physics](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/410565) `P. Lainer`
 
