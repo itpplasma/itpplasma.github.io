@@ -16,6 +16,7 @@ layout: newdefault
 
 #### Master
 * Extending plasma response model (e.g. for time-dependant problems)
+* Benchmarking kinetic codes against individual particle tracers
 
 ### Ongoing Theses
 ##### Bachelor
