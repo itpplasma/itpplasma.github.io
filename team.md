@@ -35,10 +35,10 @@ I'm a PhD student working on hybrid MHD/kinetic modelling with the code MEPHIT. 
 
 ### Markus Markl
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/MarkusM.png">
-PhD student
+PostDoc
 `TOK/RMP | STEL/W7X`
 
-I'm a PhD student and fellow of the Friedrich Schiedel Foundation of Energy Technology working in the area of Plasma Response to Magnetic Pertubations. Apart from my research, I enjoy listening to and making music.
+I'm a PostDoc working in the area of kinetic plasma response to magnetic pertubations. In particular, I'm interested in how to reliably suppress edge localized instabilities in tokamaks. Apart from my research, I enjoy running, and listening to and making music.
 
 ### Jonatan Schatzlmayr
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/jonatan_schatzlmayr.jpg">
