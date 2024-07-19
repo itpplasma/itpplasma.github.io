@@ -21,6 +21,7 @@ layout: newdefault
 ### Ongoing Theses
 ##### Bachelor
 * Alexandra Geishüttner: Confinement and performance scalings in small and large stellarators
+* Jakob Tscheppe: A concise Introduction of Symplectic Integrators for Hamiltonian Systems
 
 ##### Master
 * Alex Egger: Physics consistent numerical integration in real space coordinates
