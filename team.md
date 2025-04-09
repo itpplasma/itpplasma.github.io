@@ -25,20 +25,12 @@ Senior Researcher
 
 Theoretical plasma physicist with long experience in theoretical and numerical methods for transport and heating and resonant wave-particle interaction. Contact person for collaboration with Kharkiv Institute of Physics and Technology, Ukraine.
 
-
-### [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3){:style="color:black;border:none"}
-<img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/PL.png">
-PhD student
-`TOK/(RMP,EDGE) | EDU/IT`
-
-I'm a PhD student working on hybrid MHD/kinetic modelling with the code MEPHIT. As a university assistant, I'm also involved in teaching, especially in the programming courses. Besides research and teaching, I'm also active in the students union.
-
 ### Markus Markl
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/MarkusM.png">
 PostDoc
 `TOK/RMP | STEL/W7X`
 
-I'm a PostDoc working in the area of kinetic plasma response to magnetic pertubations. In particular, I'm interested in how to reliably suppress edge localized instabilities in tokamaks. Apart from my research, I enjoy running, and listening to and making music.
+I'm a PostDoc and [*EUROfusion Bernard Bigot Researcher Grant 2025*](https://www.oeaw.ac.at/en/fusion/news/news-1/eurofusion-researcher-grant-fuer-markus-markl) Grantee working in the area of kinetic plasma response to magnetic pertubations. In particular, I'm interested in how to reliably suppress edge localized instabilities in tokamaks. Apart from my research, I enjoy running, and listening to and making music.
 
 ### Jonatan Schatzlmayr
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/jonatan_schatzlmayr.jpg">
@@ -46,6 +38,14 @@ PhD student
 `TOK/EDGE | STEL/W7X`
 
 I am a PhD student funded by the KKKÖ (Kommission für die Koordination der Kernfusionsforschung in Österreich). My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
+
+### Georg Grassler
+PhD Student
+`TOK/(RMP,NTV) | STEL/W7X`
+
+### Philipp Zenz
+PhD Student
+`TOK/(RMP,NTV)`
 
 
 <br/>
@@ -63,3 +63,7 @@ PostDoc
 `TOK/(RMP,DEMO)`
 
 Theoretical plasma physicist with experience in neoclassical and turbulent transport theory and simulation. Currently maintaining the NEO-2 neoclassical transport code and applications to neoclassical toroidal viscous torque in tokamaks and current drive in stellarators.
+
+### [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3){:style="color:black;border:none"}
+<img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/PL.png">
+`TOK/(RMP,EDGE) | EDU/IT`
