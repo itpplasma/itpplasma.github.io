@@ -25,7 +25,7 @@ Senior Researcher
 
 Theoretical plasma physicist with long experience in theoretical and numerical methods for transport and heating and resonant wave-particle interaction. Contact person for collaboration with Kharkiv Institute of Physics and Technology, Ukraine.
 
-### Markus Markl
+### [Markus Markl](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=8C1C27116A9B70D3)
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/MarkusM.png">
 PostDoc
 `TOK/RMP | STEL/W7X`
