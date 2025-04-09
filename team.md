@@ -64,12 +64,7 @@ Associate professor (retired)
 
 Theoretical plasma physicist with expertize in both, astrophysical and fusion plasmas and their fundamentals. Strong interest in mathematical methods and Hamiltonian theory and their application to chaotic systems.
 
-### [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3){:style="decoration:none;color:black;border:none"}
-PostDoc
-`TOK/(RMP,DEMO)`
-
-Theoretical plasma physicist with experience in neoclassical and turbulent transport theory and simulation. Currently maintaining the NEO-2 neoclassical transport code and applications to neoclassical toroidal viscous torque in tokamaks and current drive in stellarators.
-
 ### [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3){:style="color:black;border:none"}
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/PL.png">
 `TOK/(RMP,EDGE) | EDU/IT`
+I'm a PhD student working on hybrid MHD/kinetic modelling with the code MEPHIT. As a university assistant, I'm also involved in teaching, especially in the programming courses. Besides research and teaching, I'm also active in the students union.
