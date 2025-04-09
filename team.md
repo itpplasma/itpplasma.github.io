@@ -67,4 +67,5 @@ Theoretical plasma physicist with expertize in both, astrophysical and fusion pl
 ### [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3){:style="color:black;border:none"}
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/PL.png">
 `TOK/(RMP,EDGE) | EDU/IT`
+
 I'm a PhD student working on hybrid MHD/kinetic modelling with the code MEPHIT. As a university assistant, I'm also involved in teaching, especially in the programming courses. Besides research and teaching, I'm also active in the students union.
