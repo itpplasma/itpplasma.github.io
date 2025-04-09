@@ -3,7 +3,7 @@ layout: newdefault
 ---
 ## Team
 <figure style="text-align: center;">
-  <img style="margin: 0px 20px; width: 70%;" src="/assets/Team/DSC_1541.jpg" alt="Team Photo">
+  <img style="margin: 0px 20px; width: 70%;" src="/assets/Team/plasma_group.jpg" alt="Team Photo">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
     Photo by courtesy of Tamás Szabolics
   </figcaption>
