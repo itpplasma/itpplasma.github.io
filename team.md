@@ -2,7 +2,13 @@
 layout: newdefault
 ---
 ## Team
-![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
+<figure style="text-align: center;">
+  <img style="margin: 0px 20px; width: 70%;" src="/assets/Team/DSC_1541.jpg" alt="Team Photo">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+    Photo by courtesy of Tamás Szabolics
+  </figcaption>
+</figure>
+
 <br/>
 
 ### [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3){:style="decoratopn:none;color:black"}
@@ -26,7 +32,7 @@ Senior Researcher
 Theoretical plasma physicist with long experience in theoretical and numerical methods for transport and heating and resonant wave-particle interaction. Contact person for collaboration with Kharkiv Institute of Physics and Technology, Ukraine.
 
 ### [Markus Markl](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=8C1C27116A9B70D3)
-<img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/MarkusM.png">
+<img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/MarkusM.jpg">
 PostDoc
 `TOK/RMP | STEL/W7X`
 
