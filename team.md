@@ -38,12 +38,12 @@ PostDoc
 
 I'm a PostDoc and [*EUROfusion Bernard Bigot Researcher Grant 2025*](https://www.oeaw.ac.at/en/fusion/news/news-1/eurofusion-researcher-grant-fuer-markus-markl) Grantee working in the area of kinetic plasma response to magnetic pertubations. In particular, I'm interested in how to reliably suppress edge localized instabilities in tokamaks. Apart from my research, I enjoy running, and listening to and making music.
 
-### Jonatan Schatzlmayr
+### [Jonatan Schatzlmayr] (https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=A25F6EF8E3BEAC75&pPersonenGruppe=3){:style="decoration:none;color:black;border:none"}
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/jonatan_schatzlmayr.jpg">
 PhD student
 `TOK/EDGE | STEL/W7X`
 
-I am a PhD student funded by the KKKÖ (Kommission für die Koordination der Kernfusionsforschung in Österreich). My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
+I am a PhD student funded by the Friedrich Schiedel Foundation for Energy Technology. My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
 
 ### Georg Grassler
 PhD Student
